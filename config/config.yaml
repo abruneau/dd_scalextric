@@ -1,0 +1,15 @@
+button:
+  start: 35
+  stop: 33
+
+countdown:
+  latch: 11
+  clk: 13
+  data: 7
+  beep: 37
+
+sensor:
+  one: 29
+  two: 31
+
+laps: 10
